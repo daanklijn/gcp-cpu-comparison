@@ -1,7 +1,7 @@
 # gcp-cpu-comparison
 Comparison of CPU instances @ GCP
 
-| Where | Type | CPUS | GB Mem | Price | Coremark  | CPU / $ | Coremark / $ |
+| Where | Type | CPUS | GB Mem | Price (12-2020) | Coremark  | CPU / $ | Coremark / $ |
 |-------|------|------|--------|-------|-----------|---------|--------------|
 | GCP   | E2   | 32   | 32     | 0.792 |           | 40.4    |              |
 | GCP   | E2   | 16   | 16     | 0.396 | 223,077   | 40.4    | 563326       |
